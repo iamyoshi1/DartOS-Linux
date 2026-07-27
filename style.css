@@ -1,5 +1,5 @@
-head {
-  background-image: url("~/media/images/DartOS Website Background 1920x1080.png");
+body {
+  background-image: url("./media/images/DartOS Website Background 1920x1080.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
